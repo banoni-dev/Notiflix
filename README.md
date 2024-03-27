@@ -236,6 +236,7 @@ Notiflix.Report.success(
 --_--_----_--_----_--_----_--_----_--_----_--_--
 
 
+
 #### 3- Confirm Module
 
 Notiflix Confirm module can be used to show non-blocking confirm/prompt boxes. This module includes 3 types of prompts: "Show", "Ask", and "Prompt". An additional question can be asked within the prompt box if using the "Ask" and/or "Prompt" ones unlike the "Show" one.
